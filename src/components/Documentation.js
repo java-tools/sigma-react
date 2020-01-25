@@ -14,11 +14,11 @@ export class Documentation extends Component {
                 <div className="p-col-12">
                     <div className="card docs">
                         <h1>Current Version</h1>
-                        <p>React 16.8.6 and PrimeReact 3.1.7</p>
+                        <p>React 16.12.0 and PrimeReact 3.4.0</p>
 
                         <h1>Getting Started</h1>
                         <p>Sigma is an application template for React based on the popular <a href="https://github.com/facebookincubator/create-react-app">create-react-app</a> that allows
-                            creating React apps with no configuration. To get started, clone the <a href="https://github.com/primefaces/sigma">repository</a> from GitHub and install the dependencies with npm or yarn.</p>
+                            creating React apps with no configuration. To get started, clone the <a href="https://github.com/srbala/sigma-react">repository</a> from GitHub and install the dependencies with npm or yarn.</p>
                         <pre>
 {
 `npm install
