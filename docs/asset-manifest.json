@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sigma-react/static/css/main.bc6e4fb4.chunk.css",
+    "main.js": "/sigma-react/static/js/main.570e88a5.chunk.js",
+    "main.js.map": "/sigma-react/static/js/main.570e88a5.chunk.js.map",
+    "runtime-main.js": "/sigma-react/static/js/runtime-main.bf57be22.js",
+    "runtime-main.js.map": "/sigma-react/static/js/runtime-main.bf57be22.js.map",
+    "static/css/2.bee801a2.chunk.css": "/sigma-react/static/css/2.bee801a2.chunk.css",
+    "static/js/2.12cd62a2.chunk.js": "/sigma-react/static/js/2.12cd62a2.chunk.js",
+    "static/js/2.12cd62a2.chunk.js.map": "/sigma-react/static/js/2.12cd62a2.chunk.js.map",
+    "index.html": "/sigma-react/index.html",
+    "precache-manifest.2fc2a29726517f6b7b6b8505ab41e849.js": "/sigma-react/precache-manifest.2fc2a29726517f6b7b6b8505ab41e849.js",
+    "service-worker.js": "/sigma-react/service-worker.js",
+    "static/css/2.bee801a2.chunk.css.map": "/sigma-react/static/css/2.bee801a2.chunk.css.map",
+    "static/css/main.bc6e4fb4.chunk.css.map": "/sigma-react/static/css/main.bc6e4fb4.chunk.css.map",
+    "static/js/2.12cd62a2.chunk.js.LICENSE": "/sigma-react/static/js/2.12cd62a2.chunk.js.LICENSE",
+    "static/media/primereact.min.css": "/sigma-react/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/sigma-react/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/sigma-react/static/media/primeicons.e5e0e944.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf57be22.js",
+    "static/css/2.bee801a2.chunk.css",
+    "static/js/2.12cd62a2.chunk.js",
+    "static/css/main.bc6e4fb4.chunk.css",
+    "static/js/main.570e88a5.chunk.js"
+  ]
+}
